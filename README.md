@@ -1,5 +1,5 @@
 # Assessing Hurricane Harvey effects
-Tropical cyclones have a significant impact on the economy of the region, causing material damage and losses
+> Tropical cyclones have a significant impact on the economy of the region, causing material damage and losses
 of life. Using Hurricane Loss Projection Methodology (HLPM) vendors offer various products adapted to
 potential losses. It is obvious, that the complex nature of cyclones does not allow applying the same models
 and products each year. After each event occurrence HLPM is analyzed and eventually corrected with respect
