@@ -8,6 +8,8 @@ Damage Detection. This last requires the initial data preprocessing to point out
 features of the event. In this work, we will concentrate on the Harvey hurricane which took place in August 2017
 in the USA. Our primary goal is to analyze the property cost which was declared as damaged due to this event
 and to facilitate the assessing effects in the most impacted states.
-## Dataset related to Hurricane Harvey
+# Dataset related to Hurricane Harvey
+In this study we use the data selected from the data file which contained a list of categorized weather events
+(as well as information about damage costs, number of resulting injuries, location, and etc.) that occurred in the
+United States in 2017. The events related to Hurricane Harvey occured from 08.17.2017 to 09.01.2017.
 
-# Solution
