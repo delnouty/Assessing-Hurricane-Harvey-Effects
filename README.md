@@ -15,6 +15,8 @@ https://www.aoml.noaa.gov/hrd/hurdat/metadata_master.html
 
 https://www.aoml.noaa.gov/hrd/hurdat/most_intense.html
 
+https://www.aoml.noaa.gov/hrd/hurdat/DataByYearandStorm.html
+
 # Dataset related to Hurricane Harvey
 In this study we use the data selected from the data file which contained a list of categorized weather events
 (as well as information about damage costs, number of resulting injuries, location, and etc.) that occurred in the
