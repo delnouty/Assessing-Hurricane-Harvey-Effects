@@ -17,6 +17,8 @@ https://www.aoml.noaa.gov/hrd/hurdat/most_intense.html
 
 https://www.aoml.noaa.gov/hrd/hurdat/DataByYearandStorm.html
 
+[Hurricane Beryl \(2024\)](https://www.weatherusa.net/tropical/storm-history/2024/at/2)
+
 # Dataset related to Hurricane Harvey
 In this study we use the data selected from the data file which contained a list of categorized weather events
 (as well as information about damage costs, number of resulting injuries, location, and etc.) that occurred in the
